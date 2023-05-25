@@ -1,0 +1,11 @@
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.csproj.AssemblyReference.cache
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.csproj.CoreCompileInputs.cache
+C:\Users\306\Documents\RomanLibrary\RomanMain\bin\Debug\RomanMain.exe.config
+C:\Users\306\Documents\RomanLibrary\RomanMain\bin\Debug\RomanMain.exe
+C:\Users\306\Documents\RomanLibrary\RomanMain\bin\Debug\RomanMain.pdb
+C:\Users\306\Documents\RomanLibrary\RomanMain\bin\Debug\RomanLibrary.dll
+C:\Users\306\Documents\RomanLibrary\RomanMain\bin\Debug\RomanLibrary.pdb
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.csproj.CopyComplete
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.exe
+C:\Users\306\Documents\RomanLibrary\RomanMain\obj\Debug\RomanMain.pdb

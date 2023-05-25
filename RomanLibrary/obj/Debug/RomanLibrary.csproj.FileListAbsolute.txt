@@ -1,0 +1,6 @@
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\obj\Debug\RomanLibrary.csproj.AssemblyReference.cache
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\obj\Debug\RomanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\bin\Debug\RomanLibrary.dll
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\bin\Debug\RomanLibrary.pdb
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\obj\Debug\RomanLibrary.dll
+C:\Users\306\Documents\RomanLibrary\RomanLibrary\obj\Debug\RomanLibrary.pdb
